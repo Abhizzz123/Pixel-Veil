@@ -64,5 +64,7 @@ python3 pixelveil.py
 ![Method and File Selection](assets/fileListing.png?raw=true)
 ### LSB encoding demo:
 ![LSB Encoding Demo](assets/encoding.png?raw=true)
-### Verifying
+### Log Panel
 ![Log and Verification](assets/log.png?raw=true)
+### Verify Encoding
+![verifying](assets/verify.png?raw=true)
