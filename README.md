@@ -58,11 +58,11 @@ Note: we recommend using method A, as using ```--break-system-packages``` can le
 python3 pixelveil.py
 ```
 ## Screenshots
-- UI
-{link}
-- Method Selection and File Selection:
-{link}
-- LSB encoding demo:
-{link}
-- Verifying
-{link}
+### Menu
+![PixelVeil Homescreen](assets/homescreen.png?raw=true)
+### Method Selection and File Selection:
+![Method and File Selection](assets/fileListing.png?raw=true)
+### LSB encoding demo:
+![LSB Encoding Demo](assets/encoding.png?raw=true)
+### Verifying
+![Log and Verification](assets/log.png?raw=true)
